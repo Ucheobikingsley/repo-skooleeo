@@ -1,0 +1,59 @@
+
+.del-blog{
+    padding-left:  10em;
+}
+.blog{
+    text-decoration: none;
+    text-decoration-style: none;
+    color: rgb(43, 38, 38);
+}
+.blog-an{
+    text-decoration: none;
+    text-decoration-style: none; 
+}
+
+.views-placement{
+   margin-left: 34em;
+    width:20%
+}
+
+.toast-card{
+    margin-top: 10px;
+   
+}
+.view-placement{
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 20px;
+}
+
+.total-views{
+    margin-left: 200px;
+}
+
+nav{
+    background-color:#000000FF;
+}
+.card-top{
+    color:#B0B8B4FF;
+    text-align:center;
+    font-size:50px
+}
+
+.blog-top{
+    text-align:center;
+}
+.view-count{
+   
+    float:right;
+}
+.go-back-img{
+    margin-left:38em;
+      
+}
+a{
+    text-decoration:none;
+}
+small{
+    font-size:9px
+}
